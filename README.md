@@ -1,6 +1,4 @@
-# README
-
-Ruby on Rails Tasks Performed: 
+# Ruby on Rails_Tasks Performed
 
 - Familiarised with Ruby, and Rails MVC framework. 
 - Built simple applications such as blog, contact form, articles.  
